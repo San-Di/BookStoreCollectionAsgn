@@ -1,0 +1,6 @@
+framework module Pods_BookStoreCollectionViewAsgn {
+  umbrella header "Pods-BookStoreCollectionViewAsgn-umbrella.h"
+
+  export *
+  module * { export * }
+}
